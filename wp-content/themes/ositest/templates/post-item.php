@@ -8,7 +8,7 @@ $author = get_the_author();
 $author_url = get_author_posts_url($id);
 
 
-// Выведет: http://wp-kama.ru/author/batmen
+
 
 ?>
 <?php  ?>
